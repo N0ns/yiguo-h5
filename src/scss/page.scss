@@ -1,0 +1,13 @@
+@import 'common';
+@import 'var';
+
+.box{
+    padding:10px;
+    border:2px solid #ddd;
+    h4{
+        margin: 0;
+        border-bottom: 1px solid #ddd;
+        padding: 10px;
+        color:$mainColor
+    }
+}
